@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  discogs_id: 1
+  artist: one
+  title: MyString
+  genre: MyString
+  color_code: 1
+  photo_url: MyString
+  label: MyString
+
+two:
+  discogs_id: 1
+  artist: two
+  title: MyString
+  genre: MyString
+  color_code: 1
+  photo_url: MyString
+  label: MyString
